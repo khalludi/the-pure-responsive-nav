@@ -5,5 +5,8 @@ I followed a tutorial to create a responsive navbar using basic HTML, CSS, and J
   <img width="751" height="613" src="navbar.png">
 </p>
 
-Tutorial Link: https://www.youtube.com/watch?v=gXkqy0b4M5g
+<img align="left" width="669" height="919" src="navbar-phone.png">
+<img align="right" width="669" height="919" src="navbar-phone-open.png">
+
+Tutorial Link: https://www.youtube.com/watch?v=gXkqy0b4M5g  
 Image Link: https://hdqwalls.com/snowy-blue-mountains-4k-wallpaper
